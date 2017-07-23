@@ -1,2 +1,5 @@
 # LearnReact
-Trying out React js 
+
+# From below sources
+
+1. thenewboston
